@@ -3,15 +3,15 @@
 ---
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/heistejiri/BloodBankSystem/blob/master/static/screenshot/homepage.png?raw=true)
+![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/heistejiri/BloodBankSystem/blob/master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
 ### Blood Donation 
-![invoice snap](https://github.com/heistejiri/BloodBankSystem/blob/master/static/screenshot/blooddonation.png?raw=true)
+![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
 ### Blood Request
-![doctor snap](https://github.com/heistejiri/BloodBankSystem/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
 ### Logout
-![doctor snap](https://github.com/heistejiri/BloodBankSystem/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
 ---
 ## Functions
 
@@ -75,6 +75,4 @@ http://127.0.0.1:8000/
 
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+Any suggestion and feedback is welcome.
