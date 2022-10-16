@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%Agoro-Godswill-Oghenetejiri)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%Tejiri)
 ---
 ## Screenshots
 ### Homepage
