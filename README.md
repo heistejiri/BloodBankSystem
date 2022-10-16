@@ -1,17 +1,19 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-ME%20Tejiri)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Agoro%20Oghenetejiri-red)
 ---
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/homepage.png?raw=true)
+![homepage snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/homepage.png)
+### Admin Login
+![admin snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/adminlogin.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/admindashboard.png)
 ### Blood Donation 
-![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
+![invoice snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/blooddonation.png)
 ### Blood Request
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![doctor snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/bloodrequest.png)
 ### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/logout.png)
 ---
 ## Functions
 
@@ -55,8 +57,9 @@ py manage.py createsuperuser
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
-- Download This Project Zip Folder and Extract it
+- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python).
+- Download This Project Zip Folder and Extract it.
+- Create a Django run environment.
 - Move to project folder in Terminal. Then run following Commands :
 
 ```
@@ -75,4 +78,6 @@ http://127.0.0.1:8000/
 
 
 ## Feedback
-Any suggestion and feedback is welcome.
+Any suggestion and feedback is welcome. You can contact me on twitter and linkedIn;
+- [Contact on Twitter](https://twitter.com/heistejiri)
+- [LinkedIn Profile](https://linkedin.com/in/heistejiri)
