@@ -12,9 +12,7 @@
 ![invoice snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/blooddonation.png)
 ### Blood Request
 ![doctor snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/bloodrequest.png)
-### Logout
-![doctor snap](https://raw.githubusercontent.com/heistejiri/bloodbanksystem/master/static/screenshot/logout.png)
----
+
 ## Functions
 
 ### Admin
